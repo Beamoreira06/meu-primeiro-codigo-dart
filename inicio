@@ -1,0 +1,15 @@
+ void main (){
+   
+   // meu primeiro codigo 
+   String lua = 'seja como a lua'; 
+   print ("$lua e brilhe como uma");
+  
+   //vareavel boleana
+   bool sol = true; 
+   print("$sol brilho e luz");
+  
+   //meu primeiro codigo inteiro
+   int feliz = 100;
+   print ("$feliz");
+   
+ }  
